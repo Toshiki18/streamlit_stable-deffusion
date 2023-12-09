@@ -2,5 +2,5 @@ torch
 diffusers
 transformers
 pillow
---upgrade streamlit
---upgrade pip
+--upgrade = streamlit
+--upgrade = pip
