@@ -2,3 +2,6 @@ torch
 diffusers
 transformers
 pillow
+streamlit --version
+--upgrade streamlit
+--upgrade pip
